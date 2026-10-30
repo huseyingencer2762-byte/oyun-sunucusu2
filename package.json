@@ -1,0 +1,9 @@
+{
+  "name": "oyun-sunucusu2",
+  "version": "1.0.0",
+  "description": "Cok oyunculu oyun sunucusu",
+  "main": "server (1).js",
+  "scripts": {
+    "start": "node \"server (1).js\""
+  }
+}
